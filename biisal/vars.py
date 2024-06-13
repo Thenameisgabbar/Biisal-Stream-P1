@@ -36,9 +36,9 @@ class Var(object):
     FQDN = str(getenv('FQDN', 'BIND_ADRESS:PORT')) if not ON_HEROKU or getenv('FQDN', '') else APP_NAME+'.herokuapp.com'
     HAS_SSL=bool(getenv('HAS_SSL',True))
     if HAS_SSL:
-        URL = "https://{}/".format(FQDN)
+        URL = "https://biisal-file-stream.onrender.com/".format(FQDN)
     else:
-        URL = "http://{}/".format(FQDN)
+        URL = "http://biisal-file-stream.onrender.com/".format(FQDN)
     DATABASE_URL = str(getenv('DATABASE_URL', 'mongodb+srv://Premium2099:Ashish2099@premium.ovoreus.mongodb.net/?retryWrites=true&w=majority&appName=Premium'))
     UPDATES_CHANNEL = str(getenv('UPDATES_CHANNEL', 'MoviesHubFree4You')) 
     BANNED_CHANNELS = list(set(int(x) for x in str(getenv("BANNED_CHANNELS", "-1002053387203")).split()))   
