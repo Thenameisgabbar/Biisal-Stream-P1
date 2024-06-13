@@ -1,39 +1,3 @@
-![GitHub contributors](https://img.shields.io/github/contributors/biisal/biisal-file-stream-pro?style=flat&color=green)
-![GitHub repo size](https://img.shields.io/github/repo-size/biisal/biisal-file-stream-pro?color=green)
-![GitHub](https://img.shields.io/github/license/biisal/biisal-file-stream-pro?color=green)
-
-### Demo Bot
-
-Here is our Demo bot -
-
-[![Click Here](https://img.shields.io/badge/Demo%20Bot-Click%20Here-blue?style=flat&logo=telegram&labelColor=white&link=https://t.me/Bisal_Files_Talk)](https://t.me/Bisal_File2Link_Bot)
-
-### Need Deployment Support?
-
-If you encounter any issues deploying the bot, feel free to seek assistance in our support group:
-
-[![Join Support Group](https://img.shields.io/badge/Join%20Support%20Group-Click%20Here-blue?style=flat&logo=telegram&labelColor=white&link=https://t.me/Bisal_Files_Talk)](https://t.me/Bisal_Files_Talk)
-
-
-
-<h1 align="center"></h1>
-<p align="center"> 
-  <img src="https://wallpapercave.com/wp/wp12026024.jpg" alt="Cover Image" width="650">
-  </a>
-  
- <p align="center">
-    A Telegram bot to turn all media and documents files to instant direct download and stream link .
-    <br />
-   </strong></a>
-    <br />
-    <a href="https://github.com/biisal/biisal-file-stream-pro/issues">Report a Bug</a>
-    |
-    <a href="https://github.com/biisal/biisal-file-stream-pro/issues">Request Feature</a>
-  </p>
-
-
-<hr>
-
 ## Project Discontinuation Notice and Disclaimer
 
 **Please Note**:
